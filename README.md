@@ -101,3 +101,5 @@ License
 http://creativecommons.org/licenses/by-nc-sa/3.0/
 
 ![License](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png) 
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/ScDarko/ROChargenPHP)
